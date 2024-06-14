@@ -5,8 +5,11 @@ A simple calculator project written in HTML, CSS, and JavaScript.
 Features
 
 Addition
+
 Subtraction
+
 Multiplication
+
 Division
 
 Screenshots
